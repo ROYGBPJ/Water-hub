@@ -16,7 +16,7 @@ end
 
 file = readfile("Water Key/key.txt")
 if file ~= MaxAxeAmt then
-	loadstring(game:HttpGet('https://raw.githubusercontent.com/ROYGBPJ/butter-hub-main-key/main/Butter%20hub%20main%20key.lua'))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/ROYGBPJ/Water-hub/main/Water%20Ui%20Lib.txt'))()
 else
 
 	function hasi(v,p)
